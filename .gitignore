@@ -1,0 +1,4 @@
+*.v
+*.fir 
+.ipynb_checkpoints/*
+test_run_dir/*
